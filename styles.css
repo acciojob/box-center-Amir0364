@@ -18,7 +18,7 @@ body, html {
 	height: 200px;
 	background-color: lightblue;
 	border: 2px solid black;
-	border-width: 2px;
+	border-top-width: 2px;
 	display: flex;
 	justify-content: center;
 	align-items: center;
