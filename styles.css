@@ -7,12 +7,12 @@ body, html {
 	align-items: center;
 }
 .container{
+	border:  2px solid black;
 	display: flex;
 	justify-content: center;
 	align-items: center; /* corrected here */
 	height: 100%;
-	border: 2px solid black;
-}
+	}
 
 .Box{
 	width: 300px;
